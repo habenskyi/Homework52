@@ -1,0 +1,15 @@
+C:\Cisharp\HOMEWORK\Homework52\obj\Debug\net6.0\Homework52.csproj.AssemblyReference.cache
+C:\Cisharp\HOMEWORK\Homework52\obj\Debug\net6.0\Homework52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\HOMEWORK\Homework52\obj\Debug\net6.0\Homework52.AssemblyInfoInputs.cache
+C:\Cisharp\HOMEWORK\Homework52\obj\Debug\net6.0\Homework52.AssemblyInfo.cs
+C:\Cisharp\HOMEWORK\Homework52\obj\Debug\net6.0\Homework52.csproj.CoreCompileInputs.cache
+C:\Cisharp\HOMEWORK\Homework52\bin\Debug\net6.0\Homework52.exe
+C:\Cisharp\HOMEWORK\Homework52\bin\Debug\net6.0\Homework52.deps.json
+C:\Cisharp\HOMEWORK\Homework52\bin\Debug\net6.0\Homework52.runtimeconfig.json
+C:\Cisharp\HOMEWORK\Homework52\bin\Debug\net6.0\Homework52.dll
+C:\Cisharp\HOMEWORK\Homework52\bin\Debug\net6.0\Homework52.pdb
+C:\Cisharp\HOMEWORK\Homework52\obj\Debug\net6.0\Homework52.dll
+C:\Cisharp\HOMEWORK\Homework52\obj\Debug\net6.0\refint\Homework52.dll
+C:\Cisharp\HOMEWORK\Homework52\obj\Debug\net6.0\Homework52.pdb
+C:\Cisharp\HOMEWORK\Homework52\obj\Debug\net6.0\Homework52.genruntimeconfig.cache
+C:\Cisharp\HOMEWORK\Homework52\obj\Debug\net6.0\ref\Homework52.dll
